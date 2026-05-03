@@ -21,20 +21,6 @@ I'm a Computing student in my second year, passionate about data analytics and b
 
 ---
 
-## 📚 Currently Studying
-
-**Year 2 — BSc Computing**
-
-| Module | Type |
-|---|---|
-| Human Computer Interaction | Core |
-| Data Analytics and Visualisation | Core |
-| IT Project Management | Core |
-| Systems Analysis and Design | Core |
-| Advanced Databases | Elective |
-| Object Oriented Programming | Elective |
-
-📊 Also working towards my **Google Data Analytics Professional Certificate** alongside my degree.
 
 ---
 
