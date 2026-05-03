@@ -43,7 +43,3 @@ I'm a Computing student in my second year, passionate about data analytics and b
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&hide_border=true" alt="Stefan's GitHub Stats" />
-</p>
