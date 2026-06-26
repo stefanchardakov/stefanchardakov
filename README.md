@@ -16,11 +16,13 @@ I'm a Google certified, Bsc Computing student in my penultimate year of universi
 ## 📂 Projects
 
 > 🏗️ Relational-Database Design
-
+>
+> 
+>🔗 PENDING... SQL Database Implementation and Advanced Query.
 
 ---
 
-🔗 PENDING... SQL Database Implementation and Advanced Query.
+
 ---
 
 ## 📫 Get in Touch
