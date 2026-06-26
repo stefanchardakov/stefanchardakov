@@ -1,6 +1,6 @@
 # Hi, I'm Stefan 👋
 
-I'm a Computing student in my second year, passionate about data analytics and building things that make sense of information.
+I'm a Google certified, Bsc Computing student in my penultimate year of university, passionate about data analytics and building things that make sense of information.
 
 ---
 
