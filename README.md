@@ -15,7 +15,8 @@ I'm a Google certified, Bsc Computing student in my penultimate year of universi
 
 ## 📂 Projects
 
-> 🚧 Projects coming soon — currently working through the Google Data Analytics Certificate.
+> 🏗️ Relational-Database Design
+> 🔗 PENDING... SQL Database Implementation and Advanced Query.
 
 ---
 
