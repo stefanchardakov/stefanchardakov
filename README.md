@@ -20,7 +20,7 @@ I'm a Google certified, Bsc Computing student in my penultimate year of universi
 
 ---
 
-> 🔗 PENDING... SQL Database Implementation and Advanced Query.
+🔗 PENDING... SQL Database Implementation and Advanced Query.
 ---
 
 ## 📫 Get in Touch
