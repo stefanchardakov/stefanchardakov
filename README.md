@@ -28,6 +28,6 @@ I'm a Google certified, Bsc Computing student in my penultimate year of universi
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/stefanchardakov)
-st_chardakov@outlook.com
+
 
 ---
