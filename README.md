@@ -27,9 +27,9 @@ I'm a Google certified, Bsc Computing student in my penultimate year of universi
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/stefanchardakov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/stefanchardakov) https://linkedin.com/in/stefanchardakov
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:st_chardakov@outlook.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:st_chardakov@outlook.com) st_chardakov@outlook.com
 
 
 ---
