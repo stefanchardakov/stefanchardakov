@@ -15,10 +15,13 @@ I'm a Google certified, Bsc Computing student in my penultimate year of universi
 
 ## 📂 Projects
 
-> 🏗️ Relational-Database Design
+> 🏗️ Relational-Database Design.
 >
 > 
 >🔗 SQL Database Implementation and Advanced Query.
+>
+> 
+>📈 Sales & Profit Performance Analysis — Excel Project.
 
 ---
 
