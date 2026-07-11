@@ -15,9 +15,9 @@ I'm a Google certified, Bsc Computing student in my penultimate year of universi
 
 ## 📂 Projects
 
-- 🏗️ **[Relational Database Design]([https://github.com/yourusername/repository1](https://github.com/stefanchardakov/Relational-Database-Design.))**
-- 🔗 **[SQL Database Implementation & Advanced Querying]([https://github.com/yourusername/repository2](https://github.com/stefanchardakov/SQL-Database-Implementation-Querying))**
-- 📈 **[Sales & Profit Performance Analysis (Excel)]([https://github.com/yourusername/repository3](https://github.com/stefanchardakov/Sales-Profit-Analyses))**
+🏗️ **[Relational Database Design]([https://github.com/yourusername/repository1](https://github.com/stefanchardakov/Relational-Database-Design.))**
+🔗 **[SQL Database Implementation & Advanced Querying]([https://github.com/yourusername/repository2](https://github.com/stefanchardakov/SQL-Database-Implementation-Querying))**
+📈 **[Sales & Profit Performance Analysis (Excel)]([https://github.com/yourusername/repository3](https://github.com/stefanchardakov/Sales-Profit-Analyses))**
 ---
 
 
